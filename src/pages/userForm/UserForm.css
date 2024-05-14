@@ -1,0 +1,16 @@
+.container-user-form {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.user-form {
+    display: grid;
+    width: 35%;
+}
+
+.user-button-container {
+    display: grid;
+    width: 20%;
+}
+

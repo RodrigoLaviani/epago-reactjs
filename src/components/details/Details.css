@@ -1,0 +1,22 @@
+.details-title {
+    margin-top: 0;
+}
+
+.details-container {
+    border: 2px solid #43bfef;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #dae3e7;
+    height: fit-content;
+}
+
+.details-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.no-border td {
+    padding: 8px;
+    text-align: center;
+    border: none;
+}

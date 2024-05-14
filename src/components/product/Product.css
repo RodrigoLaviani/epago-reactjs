@@ -1,0 +1,42 @@
+.product-card {
+    display: grid;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    height: 310px;
+}
+
+.product-name {
+    margin: 0;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.product-image {
+    width: 100px;
+    height: 150px;
+    object-fit: fill;
+}
+
+.product-price {
+    
+}
+
+.product-discount {
+    
+}
+
+.product-shipping {
+    
+}
+
+.product-quantity {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    align-items: baseline;
+}
+
+.quantity {
+    font-size: 24px;
+}

@@ -1,0 +1,22 @@
+.client-data-title {
+    margin-top: 0;
+}
+
+.client-data-container {
+    border: 2px solid #43bfef;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #dae3e7;
+    height: fit-content;
+}
+
+.client-data-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.no-border td {
+    padding: 8px;
+    text-align: center;
+    border: none;
+}

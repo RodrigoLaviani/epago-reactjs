@@ -1,0 +1,31 @@
+.preview-cart-container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    gap: 15px
+}
+
+.preview-cart-left {
+    display: grid;
+    align-content: baseline;
+    gap: 15px;
+    width: 50%;
+}
+
+.preview-cart-right {
+    display: grid;
+    align-content: space-between;
+    width: 50%;
+    height: 100%;
+}
+
+.preview-cart-button {
+    width: 98%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.preview-reference {
+    font-style: italic;
+}
