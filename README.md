@@ -4,7 +4,7 @@ El carrito tiene un error al querer cargar los artículos, lo importante está e
 
 loadScript.js => es un service que agrega y elimina scripts. \
 epago.js => es un helper que tiene lo de la documentación https://docs.epago.pe/web-agoraweb-button con las credenciales de cada comercio. \
-Modal.js => es el componente que le da vida al SDK. \
+Modal.js => es el componente que le da vida al SDK. 
 
 ## Available Scripts
 
