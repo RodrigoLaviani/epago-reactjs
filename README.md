@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Epago sdk implementado en React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+El carrito tiene un error al querer cargar los artículos, lo importante está en estos archivos:
+
+loadScript.js => es un service que agrega y elimina scripts.
+epago.js => es un helper que tiene lo de la documentación https://docs.epago.pe/web-agoraweb-button con las credenciales que les entrego Shirley.
+Modal.js => es el componente que le da vida al SDK.
 
 ## Available Scripts
 
